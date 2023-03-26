@@ -4,14 +4,14 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.github.romankh3</groupId>
-    <artifactId>maven-template-repository</artifactId>
+    <groupId>com.github.GrafMonteVictor</groupId>
+    <artifactId>JavaRush_TelegramBot</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <name>Maven Repository Template</name>
 
-    <url>https://github.com/template-repository/maven-template-repository</url>
+    <url>https://github.com/GrafMonteVictor/JavaRush_TelegramBot</url>
 
     <licenses>
         <license>
