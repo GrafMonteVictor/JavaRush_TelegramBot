@@ -61,7 +61,7 @@ With these configurations - run SpringBoot main method.
 Please, follow [Code of Conduct](CODE_OF_CONDUCT.md) page.
 
 ## License
-This project is Apache License 2.0 - see the [LICENSE](LICENSE) file for details
+This project is Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
 
 # Contributions
 Feel free to suggest new features via [github issue](https://github.com/javarushcommunity/javarush-telegrambot/issues/new).
