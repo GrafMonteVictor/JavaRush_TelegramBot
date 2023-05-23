@@ -5,16 +5,16 @@
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>2.7.10</version>
-		<relativePath/>
+		<version>3.1.0</version>
+		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.github.javarushcommunity</groupId>
 	<artifactId>javarush-telegrambot</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Javarush TelegramBot</name>
-	<description>Telegram bot for Javarush from community to community</description>
+	<description>Telgeram bot for Javarush from community to community</description>
 	<properties>
-		<java.version>1.8</java.version>
+		<java.version>17</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
@@ -34,6 +34,7 @@
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
+				<version>${project.parent.version}</version>
 			</plugin>
 		</plugins>
 	</build>
